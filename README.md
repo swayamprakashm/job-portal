@@ -23,10 +23,20 @@ The project focuses on building a clean UI with **Claymorphism design**, React r
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https:///" target="_blank">
-    <img src="https://img.shields.io/badge/🚀-Live%20Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  <a href="https://jobportalenginow.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Site?style=social&logo=netlify" alt="Live Demo">
   </a>
-</p
+</p>
+
+  
+---
+
+
+## 📺Demo Video
+
+
+https://github.com/user-attachments/assets/eb036b69-363f-44fe-ae41-e3d696054fd7
+
 
 ---
 
@@ -159,3 +169,4 @@ This project helped enhance practical **frontend development skills** and gain *
 Developed by **Swayam Prakash**
 
 ---
+
